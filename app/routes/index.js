@@ -12,4 +12,4 @@ export default Ember.Route.extend({
   },
 
   store: Ember.inject.service()
-})
+});
